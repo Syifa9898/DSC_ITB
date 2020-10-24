@@ -1,5 +1,5 @@
-Nama : Syifa Naila
-Universitas : Institut Teknologi Sumatera
+Nama : Syifa Naila,
+Universitas : Institut Teknologi Sumatera,
 Jurusan : Matematika 2019
 # Hasil Eksplorasi Google Developer Products
 # Google Maps
